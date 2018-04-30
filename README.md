@@ -1,2 +1,2 @@
-# logobot
-logobot.ai
+# logobot.ai
+[logobot](www.logobot.ai)
